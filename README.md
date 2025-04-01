@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 ## 🛠 Technologies I Use 
-![](https://img.shields.io/badge/.Net-61DAAB?style=for-the-badge&logo=.Net&logoColor=white)
+![](https://img.shields.io/badge/.Net-F05010?style=for-the-badge&logo=.Net&logoColor=white)
 ![](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![](https://img.shields.io/badge/Node.js-86BE00?style=for-the-badge&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
